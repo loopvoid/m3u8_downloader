@@ -1,9 +1,9 @@
-# M3u8 Downloader
+# M3u8 Multithreading Downloader
 
 Use:
 
 ```shell
-python m3u8WIN.py m3u8_stream_url/index.m3u8 video_name
+python downM3U8.py m3u8_stream_url/index.m3u8 video_name
 ```
 
 
